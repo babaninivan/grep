@@ -1,0 +1,15 @@
+With the help of some experienced and respected members of the community (thanks!) there was formulated a rule that allows a third party code to be used under certain conditions. Please read carefully the text.
+
+The following text will go as part of a renewed competition rules. The closest contest will be held already on the updated rules. Thus, there are about two days for further details, if something is unclear.
+
+Solutions and test generators can only use source code completely written by you, with the following two exceptions:
+
+the code was written and published/distributed before the start of the round,
+the code is generated using tools that were written and published/distributed before the start of the round.
+Any usage of third-party code should not violate the right holder’s license or copyright. Remember that published code is not always free to use! At the request of the right holder, any code that violates the license or copyright may be considered as violating the rules.
+
+All the changes in the code from exceptions 1) and/or 2) must be made solely by you.
+
+If there are any doubts about the time of publication, possible collaboration etc., a participant will have to prove his/her complete innocence by presenting compelling and satisfactory evidence.
+
+Currently, the only reliable proof is the presence of code on the Internet and the presence of the used edition in the cache of well-known search engines.
